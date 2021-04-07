@@ -18,18 +18,19 @@ The goal of this project is to explore the viability of a bikeshare program in D
 ![](https://github.com/NAppazeller/bikesharing/blob/main/Demo_Gender2.jpg)
 
 * Subscription based rentals verses ad hoc rentals is significantly higher and again is a largely male demographic.
+* 
 ![](https://github.com/NAppazeller/bikesharing/blob/main/Demo_Gender3.jpg)
 
-* Riders in their 40s-50s are largest age demographic.
+* Riders in their 40s-50s represent the largest age demographic.
+* 
 ![](https://github.com/NAppazeller/bikesharing/blob/main/Demo_Age.jpg)
 
 *Bike Statistics*
+
 ![](https://github.com/NAppazeller/bikesharing/blob/main/BikeStats.jpg)
 
 
 ![](https://github.com/NAppazeller/bikesharing/blob/main/CitiBike%20Image2.jpg)
 ## Summary:
 
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
-
-We believe these peak periods can be attributed to daily commuters.
+We believe a significant portion of the bikeshare users are daily commutors that utilize a subscription for their rentals. This is based on the number of subscriptions, peak hours of operation and duration of the rides. It will be important to understand where in Des Moine 
