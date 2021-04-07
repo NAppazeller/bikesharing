@@ -30,6 +30,10 @@ The goal of this project is to explore the viability of a bikeshare program in D
 * The bubbles in this plot show the bike utilization levels. If a bike has a higher utilization level, it will be a larger bubble.
 ![](https://github.com/NAppazeller/bikesharing/blob/main/BikeStats.jpg)
 
+
+* Peak ridership is between the hours of 7-9am and 5-7pm during the weekday.
+![](https://github.com/NAppazeller/bikesharing/blob/main/BikeStats2.jpg)
+
 ## Summary:
 
 ![](https://github.com/NAppazeller/bikesharing/blob/main/DesMoines.jpg)
