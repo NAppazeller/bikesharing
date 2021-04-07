@@ -34,4 +34,6 @@ The goal of this project is to explore the viability of a bikeshare program in D
 ![](https://github.com/NAppazeller/bikesharing/blob/main/CitiBike%20Image2.jpg)
 ## Summary:
 
-We believe a significant portion of the bikeshare users are daily commutors that utilize a subscription for their rentals. This is based on the number of subscriptions, peak hours of operation and duration of the rides. It will be important to understand where in Des Moine 
+![(https://github.com/NAppazeller/bikesharing/blob/main/DesMoines.jpg)
+
+We believe a significant portion of the bikeshare users are daily commuters that utilize a subscription for their rentals. This is based on the number of subscriptions, peak hours of operation and duration of the rides. It will be important to understand where in Des Moines the bikeshare program will be piloted, what is the standard mode of transportation for daily commuters, average distance traveled for work, and the male to female ratio for working adults in their 40s and 50s.
