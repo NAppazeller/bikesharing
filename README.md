@@ -17,16 +17,17 @@ The goal of this project is to explore the viability of a bikeshare program in D
 
 ![](https://github.com/NAppazeller/bikesharing/blob/main/Demo_Gender2.jpg)
 
-* Subscription based rentals verses ad hoc rentals is significantly higher and again is a largely male demographic.
-* 
+* Subscription based rentals verses ad hoc rentals are significantly higher and again represents a largely male demographic.
+
 ![](https://github.com/NAppazeller/bikesharing/blob/main/Demo_Gender3.jpg)
 
 * Riders in their 40s-50s represent the largest age demographic.
-* 
+
 ![](https://github.com/NAppazeller/bikesharing/blob/main/Demo_Age.jpg)
 
 *Bike Statistics*
 
+* The bubbles in this plot show the bike utilization levels. If a bike has a higher utilization level, it will be a larger bubble.
 ![](https://github.com/NAppazeller/bikesharing/blob/main/BikeStats.jpg)
 
 
